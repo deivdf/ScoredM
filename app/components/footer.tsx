@@ -1,8 +1,8 @@
-import Navbar from '~/components/navbar'
+import Navfooter from './navfooter'
 export default function () {
   return (
     <div>
-      desde index
+      <Navfooter/>
     </div>
   );
 }
